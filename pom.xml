@@ -20,7 +20,7 @@
 
     <name>Nexus Artifact Uploader</name>
     <description>Nexus Artifact Uploader is to upload artifact to Nexus Repo</description>
-    <url>https://wiki.jenkins-ci.org/display/JENKINS/Nexus+Artifact+Uploader</url>
+    <url>http://192.168.0.103:8080/nexus-2.14.5-02</url>
 
     <licenses>
         <license>
@@ -31,9 +31,9 @@
 
     <developers>
         <developer>
-            <id>pskumar448</id>
-            <name>Suresh Kumar</name>
-            <email>pskumar448@gmail.com</email>
+            <id>murali90</id>
+            <name>murali</name>
+            <email>muralidevops90@gmail.com</email>
         </developer>
     </developers>
     <scm>
