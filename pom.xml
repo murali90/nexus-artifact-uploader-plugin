@@ -20,7 +20,7 @@
 
     <name>Nexus Artifact Uploader</name>
     <description>Nexus Artifact Uploader is to upload artifact to Nexus Repo</description>
-    <url>http://192.168.0.103:8080/nexus-2.14.5-02</url>
+    <url>http://192.168.0.103:8080/nexus-2.14.5-02/content/repositories/releases/</url>
 
     <licenses>
         <license>
